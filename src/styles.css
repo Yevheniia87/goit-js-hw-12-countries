@@ -2,16 +2,14 @@ html {
   box-sizing: border-box;
 }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  background-image: url("./images/travel-search-illustration.jpg");
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  background-image: url('./images/travel-search-illustration.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
 }
-*,
-*::before,
+* *::before,
 *::after {
   box-sizing: inherit;
 }
