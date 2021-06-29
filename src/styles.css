@@ -30,19 +30,19 @@ ul {
   padding-top: 10px;
 }
 .input_name {
-  display: flex;
-  margin-top: 80px;
+  /* display: flex; */
+  margin-top: 40px;
   margin-bottom: 10px;
   font-size: 46px;
-  padding-left: 70px;
+  /* padding-left: 70px; */
   color: #0b5353;
 }
-.input-line {
+/* .input-line {
   display: flex;
   padding-left: 90px;
-}
+} */
 .input {
-  display: flex;
+  /* display: flex; */
   width: 250px;
   height: 36px;
   border: 2px solid #4b8f8f;
@@ -55,7 +55,7 @@ ul {
 .input::placeholder {
   font-weight: 600;
   font-size: 15px;
-  color: #0c5a5a;
+  color: #777e7e;
 }
 .card-wrapper {
   margin: 10px auto;
